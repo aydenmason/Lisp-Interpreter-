@@ -1,2 +1,2 @@
 # Lisp-Interpreter-
-Lisp Interpreter using Yacc + Bison
+Lisp Interpreter using Yacc + Bison (C++)
